@@ -1,0 +1,8 @@
+%header(role="banner")
+  %hgroup
+    %h1
+      %a{ :href=> "/"}= @heading
+    %h2= @subtitle
+  %nav.primary
+    - display_menu(@menu_items, :class => "menu", :levels => 1)
+  %div.clear 
