@@ -1,4 +1,14 @@
-# Major Tom One
-## Our first HAB project
+# Major Tom I
 
-Coming soon.
+![David Bowie](http://upload.wikimedia.org/wikipedia/commons/d/d8/BowieRaR87.jpg)
+* Major Tom I's namesake, from [Wikipedia](http://en.wikipedia.org/wiki/David_Bowie). To be replaced with real Major Tom I*
+
+Major Tom I is our first attempt at a high altitude balloon. We've got much in the plans for this little balloon:
+
+-   APRS GPS beacon (Trackuino)
+-   Backup GPS system (Cellular? Another frequency? TBD)
+-   Datalogger for various sensors
+-   GoPro Camera + 2 still cameras running CDHK
+-   Fancy parachute and balloon
+
+More information to follow.

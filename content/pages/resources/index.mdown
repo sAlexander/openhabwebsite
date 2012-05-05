@@ -1,2 +1,15 @@
 # Resources
-## Helpful links and information
+
+At the moment, there are two sets of resources available:
+
+-   [Helful Links](/resources/links) - Links that we have found to be quite helpful in the process of our HAB project.
+-   [Major Tom I](/resources/major-tom) - A bit of information about our first build.
+
+As the site progresses, I hope to have several additional resources:
+
+-   Schematics and gerber files for all electronic devices used
+-   Design documents for the payload
+-   Experiences with the camera equipment (CHDK script, GoPro battery info, etc)
+-   Pre-launch testing checklist for a HAB project
+
+Check back for more!
