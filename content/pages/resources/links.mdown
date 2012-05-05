@@ -1,3 +1,24 @@
 # Links and Resources
 
-Coming Soon.
+
+*  **Other projects**
+    * [Beyond 62](http://www.beyond62.com/ "Beyond 62 HAB Project")
+    * [White Star Balloon](http://whitestarballoon.com/)
+    * [EOSS](http://www.eoss.org/)
+    * [ENSURE II](http://www.adwiens.com/projects/ensure/2/index.html)
+    * [Sparkfun Balloon](http://www.sparkfun.com/tutorials/180)
+*   **Electronics**
+    * *Arduino*
+        * [Sparkfun Tutorials](http://www.sparkfun.com/tutorials/category/1)
+        * [LadyAda's Tutorials](http://www.ladyada.net/learn/arduino/)
+    * *Radio*
+        * [Automatic Package Reporting System (ARPS)](http://en.wikipedia.org/wiki/Automatic_Packet_Reporting_System)
+        * [Trackuino](http://code.google.com/p/trackuino/)
+        * [Amateur Ratio High Altitude Ballooning](http://www.arhab.org/)
+        * [Ham-radio HAB](http://hab-ham.org/)
+    * *Data logging*
+        * [Ladyada Datalogging Shield](http://www.ladyada.net/make/logshield/)
+        * [SDFat Library](http://code.google.com/p/sdfatlib/)
+    * *Sensors*
+    * *Camera*
+        * [CHDK](http://chdk.wikia.com/wiki/CHDK) 
