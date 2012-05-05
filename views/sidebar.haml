@@ -1,0 +1,4 @@
+#sidebar
+  - display_menu(Nesta::Menu.for_path('/resources'), :class => "menu", :level => 2)
+  = haml :categories, :layout => false
+  = haml :feed, :layout => false

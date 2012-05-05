@@ -1,3 +1,5 @@
 /
 about
-blog
+resources
+  resources/links
+  resources/major-tom
