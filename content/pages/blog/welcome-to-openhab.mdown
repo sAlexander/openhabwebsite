@@ -1,6 +1,5 @@
 Date: 4 May 2012
 Author: Spencer Alexander
-Flags: Draft
 
 # Welcome to openHAB
 
