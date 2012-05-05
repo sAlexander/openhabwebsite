@@ -2,6 +2,8 @@
 
 ## Why?
 
+Because everyone needs a project to nerd-out on!
+
 openHAB is an attempt to detail the experience of building a high altitude from the ground up. We will attempt to details the process along with the lessons learned along the way. Obviously, we aren't the first to launch a hot altitude balloon, and we were able to find many great resources along the way.
 
 The project began April 15th, 2012. The project is still in progress.
@@ -26,7 +28,7 @@ Ryan has prepared the camera equipment and the radio communications for our ball
 
 Sean is in charge of structure and the parachute. With his talent in woodworking, ripping apart a few pieces of foam into an elegant payload will be a breeze. We'll see how well he handles the sewing machine for the parachute.
 
-## Major Tom
+## Major Tom I
 
-Major Tom is our first project. More information can be found on the [Major Tom Page](/resources/major-tom-i)
+Major Tom I is our first project. More information can be found on the [Major Tom I Page](/resources/major-tom-i)
 
