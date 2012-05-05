@@ -2,4 +2,4 @@
 about
 resources
   resources/links
-  resources/major-tom
+  resources/major-tom-i

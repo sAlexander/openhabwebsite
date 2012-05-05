@@ -23,6 +23,6 @@ At the moment, the website is still being set up, but there are a few helpful pi
 
 *   [Links and resources that we find helpful](/resources/links)
 *   [A bit about our team and the project](/about)
-*   [The project page for Major Tom I](/resources/major-tom)
+*   [The project page for Major Tom I](/resources/major-tom-i)
 
 Stay tuned, more on the way!
