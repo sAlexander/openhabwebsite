@@ -3,15 +3,8 @@ Author: Spencer Alexander
 
 # Welcome to openHAB
 
-![Near Space Photo on Wikipedia](http://upload.wikimedia.org/wikipedia/commons/8/83/Picture_taken_at_aprox._100%2C000_feet_above_Oregon_by_Justin_Hamel_and_Chris_Thompson.jpg)
-*Near Space Photo Taken at ~100,000ft, from [Wikimedia](http://en.wikipedia.org/wiki/File:Picture_taken_at_aprox._100,000_feet_above_Oregon_by_Justin_Hamel_and_Chris_Thompson.jpg)*
-
-<!-- 
-
-![Near Space Photo Courtesy of Beyond62](http://www.beyond62.com/blog/wp-content/uploads/2011/04/IMG_1918.jpg)
-*Near Space Photo Courtesy of [Beyond62](http://beyond62.com)*
-
--->
+![Near Space Photo Taken by Marc Labriet at Beyond62](/attachments/beyond62-near-space-photo.jpg)
+*Near Space Photo Taken by Marc Labriet at [Beyond62](http://www.beyond62.com/)*
 
 Welcome to the openHAB website! We hope to provide resources that will make your high altitude balloon project a breeze!
 
