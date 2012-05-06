@@ -1,0 +1,21 @@
+Date: 05 May 2012
+Author: Spencer Alexander
+
+# Trackuino PCBs Arrived!
+
+![Trackuino PCBs](/attachments/trackuino-pcb.jpg)
+*My pile of Trackuino PCBs*
+
+My set of [Trackuino](http://code.google.com/p/trackuino/) PCBs have arrived! I ordered them through [iteadstudio](http://iteadstudio.com/store/index.php?main_page=index&cPath=19) and got a rockin' 12 PCBs for ~$40! I imagine that after completing the project, I'll have a few leftover that I'll be trying to sell at cost (which will be *way* less than the $25 BatchPCB wanted for a single board)... if you're looking for one, drop me a note.
+
+<!-- ~~fold~~ -->
+
+I've also ordered all of the components through Mouser (and a couple I missed through Digikey). I'll be putting together a BOM at Mouser to make the next person's life easier. Total cost for all the little pieces wasn't too bad... on the order of $20.
+
+I grabbed the [$50 Venus GPS breakout](http://www.sparkfun.com/products/11058) from sparkfun.. ouch! It hurts to pay that much knowing the cost of the underlying components, but that's the price of convenience. Hopefully the rumors are correct that the GPS functions over 18km... I'll be confirming shortly.
+
+I've opted to use the HX1 transmitter for the Trackuino. Ordered two (just in case), and came to about $40 a piece... not cheap.
+
+My total estimated cost is between $125 and $130. Not too bad for a device that will fly 100,000ft in the stratosphere and still transmit accurate location coordinates.
+
+I'll be setting up a Trackuino specific page shortly... look for more information there!
