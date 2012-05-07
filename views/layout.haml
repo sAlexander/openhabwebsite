@@ -6,7 +6,7 @@
       %meta(name="description" content=@description)
     - if @keywords
       %meta(name="keywords" content=@keywords)
-    %title= @title
+    %title= "#{@heading} | #{@title}"
     <!--[if ! lte IE 6]><!-->
     %link(href="#{url('/css/master.css')}" media="screen" rel="stylesheet")
     <!--<![endif]-->

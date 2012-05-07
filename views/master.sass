@@ -71,6 +71,7 @@ h1
 h2
   @include adjust-font-size($h2-scale, 1.5, 0.5)
   font-weight: normal
+  margin-top: 0
 h3
   @include adjust-font-size($h3-scale, 1.5, 0.5)
   font-weight: normal
@@ -105,6 +106,8 @@ nav.breadcrumb
   color: $meta-color
   padding: 0.5em 0
   font-size: 0.909em
+  width: $content-width
+  float: left
 
 // Layout
 
@@ -261,7 +264,7 @@ nav.categories, #sidebar
     list-style: none
     margin: 0 0
     ul
-      list-style: disc
+      list-style: none
       margin: 0 0 0 1.25em
     & > ul
       @include adjust-font-size(0.909, 0, 0)
