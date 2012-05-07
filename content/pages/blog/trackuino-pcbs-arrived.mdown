@@ -18,4 +18,4 @@ I've opted to use the HX1 transmitter for the Trackuino. Ordered two (just in ca
 
 My total estimated cost is between $125 and $130. Not too bad for a device that will fly 100,000ft in the stratosphere and still transmit accurate location coordinates.
 
-I'll be setting up a Trackuino specific page shortly... look for more information there!
+Check out the page for the [Trackuino](/resources/electronics/trackuino) for more information.
