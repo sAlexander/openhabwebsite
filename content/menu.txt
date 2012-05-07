@@ -3,3 +3,5 @@ about
 resources
   resources/links
   resources/major-tom-i
+  resources/electronics
+    resources/electronics/trackuino

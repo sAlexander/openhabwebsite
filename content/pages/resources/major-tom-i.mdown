@@ -1,7 +1,8 @@
 # Major Tom I
+## Our first HAB project
 
 ![David Bowie](http://upload.wikimedia.org/wikipedia/commons/d/d8/BowieRaR87.jpg)
-* Major Tom I's namesake, from [Wikipedia](http://en.wikipedia.org/wiki/David_Bowie). To be replaced with real Major Tom I*
+*Major Tom I's namesake, from [Wikipedia](http://en.wikipedia.org/wiki/David_Bowie). To be replaced with real Major Tom I*
 
 Major Tom I is our first attempt at a high altitude balloon. We've got much in the plans for this little balloon:
 
