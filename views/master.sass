@@ -22,31 +22,39 @@ body
   font: ($base-font * 1.05) Georgia, serif
   line-height: $vertical-rhythm
   color: $base-color
+  background-image: url(/background.png)
+  border-top: 1em solid #343434
 
 div.clear
   clear: both
 
 header[role=banner]
   width: 100%
-  height: 7em
+  height: 17em 
   position: relative
   hgroup
-    padding: 0.5em
-    width: 48%
-    position: absolute
+    width: 100%
+    position: relative
     top: 0
-    left: 0a
-  h1,
+    left: 0
+  #logo
+    background: url(/logo20120507.png) top left no-repeat
+    background-size: 23.3em 17em
+    width: 23.3em
+    height: 17em
+    display: block
+    padding: 0
+    margin: 0
   h2
+    position: absolute
+    left: 8em 
+    top: 1.2em
     margin: 0
     line-height: 1.2em
-    font-weight: normal
-  h1
-    font-size: 327%
-    @include text-shadow
-  h2
-    color: $meta-color
-    font-size: 1em
+    font-weight: bold
+    color: #777
+    font-size: 3em
+    font-family: 'salsa', serif
   nav.primary
     ul.menu
       padding: 0.75em
@@ -117,7 +125,6 @@ article, aside, footer, header, nav, section
 div#container
   width: 54em
   margin: 0 auto
-  padding: 1em 1em 0 1em
 
   div#content
     position: relative
@@ -192,9 +199,6 @@ article p.meta
 article h1 a
   border-bottom: none
 
-body
-  background: $background-color
-  
 article
   li
     margin-left: 2em
