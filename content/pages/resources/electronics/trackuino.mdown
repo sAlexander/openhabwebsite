@@ -2,3 +2,34 @@
 
 # Trackuino
 ## An open source APRS GPS tracker
+
+The [Trackuino](http://code.google.com/p/trackuino) is an opensource APRS GPS tracker hosted on google code. It looks to be a frequently used tracking device for high altitude balloon projects.
+
+## Printed Circuit Board (PCB)
+
+![Trackuino Printed Circuit Board](/attachments/trackuino-pcb.jpg)
+*Several copies of the Trackuino PCB*
+
+The Trackuino requires a custom printed house the components, though given sufficient patience, there is no reason the device couldn't be created on a breadboard. At the time of this writing, I was unable to find a source of Trackuino PCBs for sale or a Trackuino kit.
+
+I will be adding the Eagle files used (also [provided on google code](http://code.google.com/p/trackuino/downloads/detail?name=trackuino-ide-1.31.zip&can=2&q=)) and the zip of the gerber files I submitted to the manufacturing facility
+
+## ATMega IC and Arduino Code
+
+The Trackuino runs off a ATMega IC (a ATMega328p in my case) running a custom set of Arudino instructions. I have begun to look through the code base (which looks relatively strait forward), but haven't burned the code to the IC or made any changes. Once I get my Amateur Radio License, I plan on soldering together the Trackuino, burning the code to the ATMega, and testing.
+
+## Parts List
+
+| Part Name         | Approximate Cost |
+|:------------------|:----------------:|
+| Trackuino PCB     | $5-10 
+| [HX1 Transmitter] | $45-55 
+| [SF Venus GPS]    | $55 
+| Small Components  | $25
+| **Total**         | **$130-145**
+
+
+
+
+[HX1 Transmitter]: http://www.radiometrix.com/content/hx1 "HX1 Transmitter"
+[SF Venus GPS]: http://www.sparkfun.com/products/11058 "Sparkfun Venus GPS Breakout"

@@ -6,7 +6,7 @@ Author: Spencer Alexander
 ![Trackuino PCBs](/attachments/trackuino-pcb.jpg)
 *My pile of Trackuino PCBs*
 
-My set of [Trackuino](http://code.google.com/p/trackuino/) PCBs have arrived! I ordered them through [iteadstudio](http://iteadstudio.com/store/index.php?main_page=index&cPath=19) and got a rockin' 12 PCBs for ~$40! I imagine that after completing the project, I'll have a few leftover that I'll be trying to sell at cost (which will be *way* less than the $25 BatchPCB wanted for a single board)... if you're looking for one, drop me a note.
+My set of [Trackuino](/resources/electronics/trackuino) PCBs have arrived! I ordered them through [iteadstudio](http://iteadstudio.com/store/index.php?main_page=index&cPath=19) and got a rockin' 12 PCBs for ~$40! I imagine that after completing the project, I'll have a few leftover that I'll be trying to sell at cost (which will be *way* less than the $25 BatchPCB wanted for a single board)... if you're looking for one, drop me a note.
 
 <!-- ~~fold~~ -->
 
@@ -18,4 +18,4 @@ I've opted to use the HX1 transmitter for the Trackuino. Ordered two (just in ca
 
 My total estimated cost is between $125 and $130. Not too bad for a device that will fly 100,000ft in the stratosphere and still transmit accurate location coordinates.
 
-I'll be setting up a Trackuino specific page shortly... look for more information there!
+Check out the page for the [Trackuino](/resources/electronics/trackuino) for more information.
