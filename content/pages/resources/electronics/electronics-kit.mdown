@@ -1,0 +1,23 @@
+# Electronics Kit
+
+![openHAB Electronics Kit v1](/attachments/electronics-kit-v1.png)
+*The openHAB Electronics Kit v1, 3d image courtesy of [Mayhew Labs 3D Gerber Viewer](http://mayhewlabs.com/webGerber/)*
+
+The Electronics / Datalogging kit for the HAB consists of 6 sensors and a data logger. Currently, the sensors used are:
+
+-    Accelerometer
+-    Magenetometer
+-    Gyroscope
+-    Barometer
+-    Humidity and Temperature Sensor
+-    GPS
+
+All of the components above will be included on the board I've printed, and as I've broken out all of the headers for the ATMega, many more sensors could be added! In fact, I'm planning on putting another humidity/temperature sensor on the outside of the HAB and perhaps a light sensor as well.
+
+## Datalogging
+
+I plan on using the [SDFat Library](http://code.google.com/p/sdfatlib/) to do all of the heavy lifting for the memory writes and such. There are several resources available on the subject... I'm sure one or more will be helpful.
+
+## Real Time Clock (RTC)
+
+At the moment, I've designed the board to use the DS1307 RTC. The RTC communicates via I^2^C and allows for the use of an external battery. I'd be interested in trying out a RTC that allows for a trickle charge capacitor rather than a battery... the DS1340 looks like a good candidate.

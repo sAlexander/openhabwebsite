@@ -5,7 +5,7 @@ The electronics package used in our payload consists of four pieces:
 
 -    [**Trackuino**](/resources/electronics/trackuino) - Gathers data from GPS and temperature sensors into a AVR chip and transmitts via the APRS protocall to the ground. Range is quite strong -- several hundred miles when the payload is near it's peak.
 -    **Cellular GPS** - Still investigating what will be used. Could be as simple as an old Android we have lying around. It's nice to have a backup.
--    **Datalogger** - Collects data from a variety of sensors into an SD card for analysis upon completion of the fliht.
+-    [**Datalogger**](/resources/electronics/electronics-kit) - Collects data from a variety of sensors into an SD card for analysis upon completion of the fliht.
 -    **Loud horn** - A horn that automatically goes off after seven hours to assist in recovery.
 
 Additional information to come on each item.

@@ -5,3 +5,4 @@ resources
   resources/major-tom-i
   resources/electronics
     resources/electronics/trackuino
+    resources/electronics/electronics-kit
