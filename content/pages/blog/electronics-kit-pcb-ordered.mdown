@@ -10,4 +10,4 @@ I've finally finished the design for the openHAB Electronics Kit and submitted i
 
 <!-- ~~fold~~ -->
 
-In a short bit, I'll be creating a page for the electronics kit which includes the schematic, eagle files and the gerbers used in printing.
+If you're looking for more information about the electronics kit, check out the [electronics kit page](/resources/electronics/electronics-kit). In a short bit it'll contain information on schematics, eagle files, gerber files, sensors, code, etc.
