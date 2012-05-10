@@ -1,0 +1,13 @@
+Date: 09 May 2012
+Author: Spencer
+
+# Electronics Kit PCB Ordered
+
+![openHAB Electronics Kit v1](/attachments/electronics-kit-v1.png)
+*The openHAB Electronics Kit v1, courtesy of [Mayhew Labs](http://mayhewlabs.com/webGerber/)*
+
+I've finally finished the design for the openHAB Electronics Kit and submitted it for printing. Hopefully all goes well... this is the first board that I designed from the ground up. *Fingers crossed*.
+
+<!-- ~~fold~~ -->
+
+In a short bit, I'll be creating a page for the electronics kit which includes the schematic, eagle files and the gerbers used in printing.
