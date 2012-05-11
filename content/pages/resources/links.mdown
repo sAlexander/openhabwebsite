@@ -7,15 +7,22 @@
     * [EOSS](http://www.eoss.org/)
     * [ENSURE II](http://www.adwiens.com/projects/ensure/2/index.html)
     * [Sparkfun Balloon](http://www.sparkfun.com/tutorials/180)
+    * [Project Traveler](http://projecttraveler.org)
+    * [Still David](http://stilldavid.com/blog/2010/07/high-altitude-weather-balloon-project/)
 *   **Electronics**
     * *Arduino*
         * [Sparkfun Tutorials](http://www.sparkfun.com/tutorials/category/1)
         * [LadyAda's Tutorials](http://www.ladyada.net/learn/arduino/)
     * *Radio*
         * [Automatic Package Reporting System (ARPS)](http://en.wikipedia.org/wiki/Automatic_Packet_Reporting_System)
-        * [Trackuino](http://code.google.com/p/trackuino/)
+            * [Trackuino](http://code.google.com/p/trackuino/)
+            * [APRSMap](https://github.com/gordonjcp/aprsmap) - An application in development to recieve APRS data and plot.
+            * [WhereAVR](http://garydion.com/projects/whereavr/) - A small device with APRS decoding capability.
+            * [MX614 Pic Decoder](http://www.ringolake.com/pic_proj/pic_index.html) - Uses the MX614 chip to decode APRS data.
         * [Amateur Ratio High Altitude Ballooning](http://www.arhab.org/)
         * [Ham-radio HAB](http://hab-ham.org/)
+        * *SDR* (software defined radio)
+            *  [RTL-SDR](http://sdr.osmocom.org/trac/wiki/rtl-sdr)
     * *Data logging*
         * [Ladyada Datalogging Shield](http://www.ladyada.net/make/logshield/)
         * [SDFat Library](http://code.google.com/p/sdfatlib/)

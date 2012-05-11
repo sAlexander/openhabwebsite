@@ -6,3 +6,4 @@ resources
   resources/electronics
     resources/electronics/trackuino
     resources/electronics/electronics-kit
+    resources/electronics/antennas

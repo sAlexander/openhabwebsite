@@ -20,16 +20,22 @@ The Trackuino runs off a ATMega IC (a ATMega328p in my case) running a custom se
 
 ## Parts List
 
-| Part Name         | Approximate Cost |
-|:------------------|:----------------:|
-| Trackuino PCB     | $5-10 
-| [HX1 Transmitter] | $45-55 
-| [SF Venus GPS]    | $55 
-| Small Components  | $25
-| **Total**         | **$130-145**
+| Part Name          | Approximate Cost |
+|:-------------------|:----------------:|
+| Trackuino PCB      | $5-10 
+| [HX1 Transmitter]  | $45-55 
+| [SF Venus GPS]     | $55 
+| [Small Components] | $30-35
+| **Total**          | **$135-155**
+
+## Mouser BOM
+
+For convenience, I have created a [mouser bill of materials for the trackuino][Small Components]. The BOM contains all of the components for the physical board, along with two extra items: A male SMA connector for your antenna, and a battery pack (8xAAA) to power the device. At the moment, total cost for the small components is ~$30, which includes the $5 for those two extras.
 
 
 
 
 [HX1 Transmitter]: http://www.radiometrix.com/content/hx1 "HX1 Transmitter"
 [SF Venus GPS]: http://www.sparkfun.com/products/11058 "Sparkfun Venus GPS Breakout"
+[Small Components]: http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=3748F60C2D
+

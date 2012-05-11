@@ -1,0 +1,22 @@
+# Antennas
+
+Antenna design is quite crucial to the HAB project, and the difference between a successful project and a failure can very well fall on the sholders of the antenna. We're currently at the step of simply hunting for ideas and resources, and below I have a set of links that I've found helpful
+
+## HAB Antenna (ie flies to near space.
+
+There seem to be several options for an antenna. I believe a few items are essential:
+
+  1.   Lightweight
+  2.   Safe on the HAB (ie no sharp sticks protruding from the package)
+  3.   Well directioned such that the signal can be received both during flight and landing (either a cone towards the ground or preferably a half sphere)
+  4.   Circularly polarized so that signal doesn't occilate as the package spins
+
+Researching (with a bit of help from the #highaltitude group), it looks like the following could work:
+
+-   [Little Wheel Antenna](http://projecttraveler.org/how-tos/67-little-wheel-antenna-for-70cm-atv.html) - Looks to work well as the payload spins. Quite simple to build.
+-   [Quarter Wave Ground Plane](http://www.trackuino.org/2010/04/trash-digging-at-its-finest-111-swr-vhf.html) - Simple to build and could fit well inside of the payload package.
+-   [Quadrifilar Helix Antenna](http://whitestarballoon.com/?p=464)
+
+## Receiver Antenna (ie stays on the ground)
+
+For the ground reciever, we definitely want a well directioned antenna for maximum gain. I've been thinking about a handheld yagi, but haven't done too much research
